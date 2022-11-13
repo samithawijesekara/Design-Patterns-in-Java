@@ -8,7 +8,7 @@
 - Prototype Pattern 
 
 ## 02 - STRUCTURAL
-- Decorator Pattern
+- Decorator Pattern ✅
 - Bridge Pattern
 - Composite Pattern
 - Facade Pattern
