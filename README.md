@@ -31,3 +31,4 @@
 
 ### Resources
 - [https://www.tutorialspoint.com/design_pattern/](https://www.tutorialspoint.com/design_pattern/)
+- [https://youtube.com/playlist?list=PLF206E906175C7E07](https://youtube.com/playlist?list=PLF206E906175C7E07)
