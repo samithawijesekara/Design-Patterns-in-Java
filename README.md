@@ -27,3 +27,7 @@
 - Interpreter Pattern
 - Command Pattern
 - Chain of Responsibility Pattern
+
+
+### Resources
+- [https://www.tutorialspoint.com/design_pattern/](https://www.tutorialspoint.com/design_pattern/)
