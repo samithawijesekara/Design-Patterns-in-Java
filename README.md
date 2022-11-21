@@ -1,7 +1,7 @@
 # Design Patterns by using the Java
 
 ## 01 - CREATIONAL
-- Singleton Pattern ✅
+- [Singleton Pattern](Patterns%20Demos/01%20-%20CREATIONAL/Singleton%20Pattern) ✅
 - Factory Method Pattern ✅
 - Abstract Factory Pattern ✅
 - Builder Pattern ✅
