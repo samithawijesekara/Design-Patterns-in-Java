@@ -1,7 +1,7 @@
 package decorator.pattern;
 
 
-public class ShapeDecorator implements Shape{
+public abstract class ShapeDecorator implements Shape {
     
     protected Shape decoratedShape;
     

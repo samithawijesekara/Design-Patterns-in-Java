@@ -1,20 +1,19 @@
 package decorator.pattern;
 
-
-public class BlueShapeDecorator extends ShapeDecorator{
+public class BlueShapeDecorator extends ShapeDecorator {
 
     public BlueShapeDecorator(Shape decoratedShape) {
         super(decoratedShape);
     }
-    
+
     @Override
     public void draw() {
-        decoratedShape.draw();	       
-        setBlueFill(decoratedShape);
+        decoratedShape.draw();
+        setBlueBorder(decoratedShape);
     }
 
-    private void setBlueFill(Shape decoratedShape){
-        System.out.println("Fill Color: Blue");
+    private void setBlueBorder(Shape decoratedShape) {
+        System.out.println("Border Color: Blue");
     }
-    
+
 }
