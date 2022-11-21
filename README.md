@@ -8,12 +8,12 @@
 - [Prototype Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Prototype%20Pattern)
 
 ## 02 - STRUCTURAL
-- [Decorator Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Decorator%20Pattern) ✅
-- [Bridge Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Bridge%20Pattern)
-- [Composite Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Composite%20Pattern)
-- [Facade Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Facade%20Pattern)
-- [Flyweight Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Flyweight%20Pattern)
-- [Proxy Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Proxy%20Pattern)
+- [Decorator Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Decorator%20Pattern) ✅
+- [Bridge Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Bridge%20Pattern)
+- [Composite Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Composite%20Pattern)
+- [Facade Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Facade%20Pattern)
+- [Flyweight Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Flyweight%20Pattern)
+- [Proxy Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Proxy%20Pattern)
 
 ## 03 - BEHAVIOURAL
 - [Template Method Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Template%20Method%20Pattern) ✅
