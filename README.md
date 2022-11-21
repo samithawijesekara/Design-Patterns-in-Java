@@ -16,7 +16,7 @@
 - Proxy Pattern
 
 ## 03 - BEHAVIOURAL
-- Template Method Pattern
+- Template Method Pattern ✅
 - Visitor Pattern
 - Strategy Pattern
 - State Pattern
