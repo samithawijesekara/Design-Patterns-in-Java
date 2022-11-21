@@ -2,31 +2,31 @@
 
 ## 01 - CREATIONAL
 - [Singleton Pattern](Patterns%20Demos/01%20-%20CREATIONAL/Singleton%20Pattern) ✅
-- Factory Method Pattern ✅
-- Abstract Factory Pattern ✅
-- Builder Pattern ✅
-- Prototype Pattern 
+- [Factory Method Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Factory%20Method%20Pattern) ✅
+- [Abstract Factory Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Abstract%20Factory%20Pattern) ✅
+- [Builder Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Builder%20Pattern) ✅
+- [Prototype Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Prototype%20Pattern)
 
 ## 02 - STRUCTURAL
-- Decorator Pattern ✅
-- Bridge Pattern
-- Composite Pattern
-- Facade Pattern
-- Flyweight Pattern
-- Proxy Pattern
+- [Decorator Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Decorator%20Pattern) ✅
+- [Bridge Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Bridge%20Pattern)
+- [Composite Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Composite%20Pattern)
+- [Facade Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Facade%20Pattern)
+- [Flyweight Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Flyweight%20Pattern)
+- [Proxy Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Proxy%20Pattern)
 
 ## 03 - BEHAVIOURAL
-- Template Method Pattern ✅
-- Visitor Pattern
-- Strategy Pattern
-- State Pattern
-- Observer Pattern
-- Memento Pattern
-- Mediator Pattern
-- Iterator Pattern
-- Interpreter Pattern
-- Command Pattern
-- Chain of Responsibility Pattern
+- [Template Method Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Template%20Method%20Pattern) ✅
+- [Visitor Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Visitor%20Pattern)
+- [Strategy Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Strategy%20Pattern)
+- [State Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/State%20Pattern)
+- [Observer Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Observer%20Pattern)
+- [Memento Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Memento%20Pattern)
+- [Mediator Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Mediator%20Pattern)
+- [Iterator Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Iterator%20Pattern)
+- [Interpreter Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Interpreter%20Pattern)
+- [Command Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Command%20Pattern)
+- [Chain of Responsibility Pattern](Patterns%20Demos/03%20-%20BEHAVIOURAL/Chain%20of%20Responsibility%20Pattern)
 
 
 ### Resources
