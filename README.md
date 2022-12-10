@@ -11,7 +11,7 @@
 - [Decorator Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Decorator%20Pattern) ✅
 - [Bridge Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Bridge%20Pattern)
 - [Composite Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Composite%20Pattern)
-- [Facade Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Facade%20Pattern)
+- [Facade Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Facade%20Pattern) ✅
 - [Flyweight Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Flyweight%20Pattern)
 - [Proxy Pattern](Patterns%20Demos/02%20-%20STRUCTURAL/Proxy%20Pattern)
 
